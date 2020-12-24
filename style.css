@@ -17,6 +17,8 @@
 
 	--sky:linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%)
 }
+body{
+	overflow-x: hidden !important;
 a{
 	text-decoration: none;
 	color: var(--text-gray);
