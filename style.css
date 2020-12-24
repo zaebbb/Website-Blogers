@@ -5,6 +5,7 @@
 	box-sizing: border-box;
 	font-family: 'Poppins', sans-serif;
 	outline: none;
+	overflow-x: hidden !important;
 }
 ::-webkit-scrollbar{
 	width: 0;
